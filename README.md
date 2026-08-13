@@ -1,6 +1,6 @@
-# ⚔️ Programación Orientada a Objetos 1 - UNAHUR ⚔️
+# ✨ Programación Orientada a Objetos 1 - UNAHUR ✨
 
-> `SYSTEM STATUS:` Online `>_`  
+> `SYSTEM STATUS:` Online `🟢`  
 > `ACTIVE QUEST:` Presentación Personal
 ---
 
@@ -16,13 +16,14 @@
     </td>
     <td width="300" valign="top">
       <h3>Guada2933 <img src="https://img.shields.io/badge/Level-44-gold?style=flat-square" style="height: 28px; vertical-align:middle;" alt="Level 44"></h3>
+      <p><b>Respawn Point:</b> Villa Tesei,Hurlingham,Buenos Aires 📍 </p>
       <p><b>Class:</b>  Narrative Designer & Game Architect 📜🖋️</p>
       <p><b>University:</b> UNAHUR</p>
       <p><b>Specialization:</b> Programación de Videojuegos 🎮</p>
       <p><b>Tools & Skills:</b> 
          <img src="https://img.shields.io/badge/-Game_Design-purple" alt="Game Design">
          <img src="https://img.shields.io/badge/-Narrative-FF5733" alt="Narrative">
-         <img src="https://img.shields.io/badge/-AI-8E44AD?logo=googlegemini&logoColor=white" alt="AI Copilot">
+         <img src="https://img.shields.io/badge/-AI-8E44AD?logo=googlegemini&logoColor=white" alt="AI">
          <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
         <img src="https://img.shields.io/badge/-Wollok-blue" alt="Wollok">
     </p>
@@ -49,13 +50,13 @@
 
 ---
 
-## 📜 MI PERFIL CREATIVO
+## 🎨 MI PERFIL CREATIVO
 
 > *"Programando mundos, creando historias y diseñando juegos."*
 
-* 🎓 Estudiante de 1er año de **Programación y desarrollo de Videojuegos**.
-* 🎓 Enfocada en aprender **Programación Orientada a Objetos** y desarrollo con **Wollok**.
-* 🎯 Me apasiona el **Worldbuilding** (creación de universos/historias) y cómo la **Programación Orientada a Objetos** permite que los personajes y el entorno reaccionen a las decisiones del jugador.
+* 🎓 Estudiante de **Programación y desarrollo de Videojuegos**.
+* 💻 Enfocada en aprender **Programación Orientada a Objetos** y desarrollo con **Wollok**.
+* ✨ Me apasiona el **Worldbuilding** (creación de universos/historias) 
 * 🕹️ Intereses: Game Design, desarrollo de historias y lógica de programación.
 
 ---
