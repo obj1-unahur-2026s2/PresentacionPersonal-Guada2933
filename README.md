@@ -15,7 +15,7 @@
       <br><br>
     </td>
     <td width="300" valign="top">
-      <h3>guada2933_v1.0</h3>
+      <h3>Guada2933 <img src="https://img.shields.io/badge/Level-44-gold?style=flat-square" style="height: 28px; vertical-align:middle;" alt="Level 44"></h3>
       <p><b>Class:</b>  Narrative Designer & Game Architect 📜🖋️</p>
       <p><b>University:</b> UNAHUR</p>
       <p><b>Specialization:</b> Programación de Videojuegos 🎮</p>
@@ -43,7 +43,7 @@
 
 ## 🛠️ MENÚ PRINCIPAL
 
-- [x] **[Load]** - **Estudiante:** Guadalupe Rivas
+- [x] **[Load]** - **Estudiante:** Guadalupe Rivas *(Level 44)*
 - [x] **[View]** - **Materia:** Objetos 1 (2c 2026)
 - [x] **[Status]** - **Progreso:** Explorando el universo de Objetos
 
