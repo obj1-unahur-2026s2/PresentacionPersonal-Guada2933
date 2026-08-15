@@ -11,11 +11,11 @@
     <td align="center" width="200">
       <br>
       <!-- Usa tu foto de GitHub automáticamente -->
-      <img src="https://github.com/Guada2933.png?size=200" width="150" style="border-radius: 50%;" alt="Guada2933 Avatar">
+      <img src="https://github.com/GuadalupeRiv.png?size=200" width="150" style="border-radius: 50%;" alt="GuadalupeRiv Avatar">
       <br><br>
     </td>
     <td width="300" valign="top">
-      <h3>Guada2933 <img src="https://img.shields.io/badge/Level-44-gold?style=flat-square" style="height: 28px; vertical-align:middle;" alt="Level 44"></h3>
+      <h3>GuadalupeRiv <img src="https://img.shields.io/badge/Level-44-gold?style=flat-square" style="height: 28px; vertical-align:middle;" alt="Level 44"></h3>
       <p><b>Respawn Point:</b> Villa Tesei,Hurlingham,Buenos Aires 📍 </p>
       <p><b>Class:</b>  Narrative Designer & Game Architect 📜🖋️</p>
       <p><b>University:</b> UNAHUR</p>
